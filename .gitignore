@@ -1,0 +1,23 @@
+#ignore
+
+#folders
+build-Desktop-Debug/
+build-Desktop-Release/
+build-Desktop-Profile/
+release/
+debug/
+build-BNCSUtil-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/
+build-BNCSUtil-Desktop_Qt_MinGW_w64_64bit_MSYS2-Release/
+bncsutil min mod/
+
+#files
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+BNCSUtil.dll
+
+#file types
+*.o
+*.exe
+*.pro.user
